@@ -2,14 +2,14 @@
 /* Archivo principal de estilos CSS - HTML/CSS/JS Puro */
 
 /* Importar módulos de estilos */
-@import url('./styles/variables.css');
-@import url('./styles/base.css');
-@import url('./styles/animations.css');
-@import url('./styles/components.css');
-@import url('./styles/navigation.css');
-@import url('./styles/pages.css');
-@import url('./styles/footer.css');
-@import url('./styles/responsive.css');
+@import url('./modules/variables.css');
+@import url('./modules/base.css');
+@import url('./modules/animations.css');
+@import url('./modules/components.css');
+@import url('./modules/navigation.css');
+@import url('./modules/pages.css');
+@import url('./modules/footer.css');
+@import url('./modules/responsive.css');
 
 /* Reset básico adicional */
 * {
